@@ -1,5 +1,3 @@
-import { ClientUserLoginDto, ClientUserRegisterDto, ClientUserRo } from '@nest-next-prisma/shared-types';
-import axios from 'axios';
 import { makeAutoObservable } from 'mobx';
 
 export interface ConversationMessage {
